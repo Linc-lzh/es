@@ -1,0 +1,10 @@
+server:
+  port: 8054
+spring:
+  application:
+    name: tlmall_search
+
+  elasticsearch:
+    uris: http://192.168.65.211:9200
+
+
